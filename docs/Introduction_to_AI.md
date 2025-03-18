@@ -2,11 +2,14 @@
 
 ## 1. What is Artificial Intelligence (AI)?
 Artificial Intelligence (AI) is a branch of computer science focused on building systems capable of performing tasks that typically require human intelligence. These tasks include:
+![Key Capability](../images/Key_Capability.png)
+
 - **Learning**: Acquiring knowledge and improving performance over time.
 - **Reasoning**: Making informed decisions based on data.
 - **Problem-Solving**: Identifying solutions to complex challenges.
 - **Understanding Language**: Processing and generating human language (NLP).
 - **Perception**: Recognizing objects, speech, and handwriting.
+
 
 ## 2. AI vs Machine Learning vs Deep Learning
 ### 2.1 Artificial Intelligence (AI)
@@ -36,6 +39,8 @@ ASI refers to a future AI system that surpasses human intelligence in all domain
 
 ## 4. Real-World Applications of AI
 AI is transforming multiple industries, including:
+![Application](../images/application.png)
+
 - **Healthcare**: AI-powered diagnostics, drug discovery, robotic surgery.
 - **Finance**: Fraud detection, algorithmic trading, credit scoring.
 - **Autonomous Vehicles**: Self-driving cars (Tesla, Waymo).
@@ -56,4 +61,4 @@ AI continues to evolve, with exciting future developments:
 - **Autonomous AI Agents**: Fully independent decision-making systems.
 
 ---
-### [Back to Main README](./README.md)
+### [Back to Main README](../README.md)
