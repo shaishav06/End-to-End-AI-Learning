@@ -1,4 +1,5 @@
 # ⚖️ AI Challenges & Ethical Considerations
+---
 
 As **AI systems** become more integrated into everyday life, addressing **ethical concerns** such as **bias, fairness, explainability, and data privacy** is crucial. This guide covers **Bias & Fairness in AI, Explainability & Interpretability, and Data Privacy & Security** with practical examples. 🛡️
 
